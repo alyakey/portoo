@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/3.5.0/remixicon.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Personal Portfolio</title>
+</head>
+
+<body>
+
+    <nav>
+        <div class="nav-logo">
+            <a href="#">
+                <img src="poto/logo_A.png" class="logo">
+            </a>
+        </div>
+
+        <ul class="nav-links">
+            <li class="link"><a href="#">Home</a></li>
+            <li id="link1" class="link"><a href="#">my education</li>
+            <li id="link2" class="link"><a href="#">Pengalaman organisasi dan kepanitiaan</a></li>
+            <li id="link3" class="link"><a href="#">contact me</a></li>
+        </ul>
+
+    </nav>
+
+    <header class="container">
+        <div class="content">
+            <span class="blur"></span>
+            <span class="blur"></span>
+            <H1>Hi, I'm <span>Alya</span></H1>
+            <p>
+            Saya merupakan mahasiswa Fakultas Hukum semester 2, yang  mana saya juga 
+            mempunyai ilmu yang  tidak bersangkutan dengan prodi saya, seperti ilmu dalam berorganisasi dan  ilmu yang bersangkutan dengaan kemajuan teknologi.
+            sekarang seperti Editor dan  juga ahli dalam menggunakan perangkat lunak seperti Microsoft word, microsoft excel,saya juga ahli dalam menggunakan  
+            aplikasi desain and  komunikasi visual online seperti canva,capcut,Ps,lightroom saya juga memiliki bakat desain karier yaitu Fotografer.
+            </p> 
+        </div>
+
+            
+        </div>
+        <div class="image">
+            <img src="poto/poto_sendiri.jpeg">
+        </div>
+    </header>
+    
+    <section class="container">
+        <h2 class="header">Education</h2>
+        <div class="features">
+            <div class="card">
+                <span></span>
+                <h4>Sekolah dasar</h4>
+                <p>
+                    Saya Bersekolah Dasar Di Sd Negeri 03 Kota Bengkulu
+                </p>
+            </div>
+            <div class="card">
+                <span></span>
+                <h4>sekolah menengah pertama</h4>
+                <p>
+                    Saya Bersekolah Di SMP Negeri 17 Kota Bengkulu
+                </p>
+            </div>
+            <div class="card">
+                <span></span>
+                <h4>Sekolah Menengah Atas</h4>
+                <p>
+                    Saya Bersekolah Di SMA Negeri 05 Kota Bengkulu
+                </p>
+            </div>
+            <div class="card">
+                <span></i></span>
+                <h4>perguruan tinggi</h4>
+                <p>
+                    sekarang saya Melanjutkan Belajar Di Universitas Bengkulu [UNIB]               
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <h2 class="header">Organisasi dan kepanitiaan </h2>
+        <div class="organisasi">
+            <div class="card">
+                <span></span>
+                <h4>Paradise</h4>
+                <p>
+                    Saya menjadi anggota biasa paradise dan di dalam kegiatan kepanitiaan saya sering masuk menjadi anggota pudekdok 
+                </p>
+            </div>
+            <div class="card">
+                <span></span>
+                <h4>Bencolenesia</h4>
+                <p>
+                    Saya menjadi anggota dibidang Graphic Design
+                </p>
+            </div>
+            <div class="card">
+                <span></span>
+                <h4>BEM KBM FH UNIB 2024/2025</h4>
+                <p>
+                    Menjadi salah satu anggota divisi medinfo
+                </p>
+            </div>
+        </div>
+    </section>
+    
+     <section class="container">
+        <h2 class="header">dokumentasi kegiatan </h2>
+        <p class="sub-header">
+          ini merupakan beberapa contoh dari kegiatan volunteer dan kepanitiaan yang saya ikuti
+        </p>
+        <div class="pricing">
+            <div class="card">
+                <div class="content">
+                    <img src="poto/Organisasi.png" class="poto_asosiasi">
+                    <h4>Kegiatan Upgrading</h4>
+                    <p>
+                        Dalam kegiatan ini bertujuan untuk meningkatkan skill dan kemampuan untuk para anggota bencoolenesia
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="content">
+                    <img src="poto/organisasi.jpeg" class="poto">
+                    <h4>Kegiatan Dies Natalis & One Day With Paradise</h4>
+                    <p>
+                        Dalam kegiatan ini saya menjadi salah satu anggota dalam kepanitiaan pubdekdok dan melakukan kegiatan seperti mendokumentasi setiap kegiatan dalam acara tersebut dan mengedit beberapa flyer dan spanduk
+                    </p>
+                </div>
+            </div>
+            <div class="card">
+                <div class="content">
+                    <img src="poto/poto .jpeg" class="poto_asosiasi">
+                    <h4>Volunteer Ke panti asuhan </h4>
+                    <p>
+                        dalam kegiatan ini kami mendatangi panti asuhan untuk melakukan sebuah project sosialisasi hukum
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <h2 class="header">Skill</h2>
+        <div class="skill">
+            <div class="card">
+                <span></span>
+                <h4>My Skill</h4>
+                <p>
+                    <img src="poto/words.png" alt="icon" class="icon">1.Microsoft word<br>
+                    <img src="poto/excel.png" alt="icon" class="icon">2.Microsoft excel<br>
+                    <img src="poto/canva.png" alt="icon" class="icon">3.canva<br>
+                    <img src="poto/capcut.png" alt="icon" class="icon">4.capcut<br>
+                    <img src="poto/ps.png" alt="icon" class="icon">5.Ps<br>
+                    <img src="poto/lr.png" alt="icon" class="icon">6.lightroom<br>
+                    </p>
+            </div>
+    </section>
+
+    <footer class="container">
+        <span class="blur"></span>
+        <span class="blur"></span>
+        <div class="column">
+            <div class="logo">
+                <img src="poto/logo_A.png">
+            </div>
+            <p>
+                You can contack me if you need anything you need
+            </p>
+            <div class="socials">
+                <a href="https://www.instagram.com/alyakyll?igsh=MXFiMmI1NXF4aHRmcQ%3D%3D&utm_source=qr/"><i class="ri-instagram-line"></i></a>
+                <a href="https://x.com/kuehhregal/"><i class="ri-twitter-line"></i></a>
+                <a href="https://wa.me/8972254493/"><i class="ri-whatsapp-line"></i></a>
+            </div>
+        </div>
+        <div class="column">
+            <h4>Contact</h4>
+            <a href="https://wa.me/8972254493/">Contact Me</a>
+            <a href="#">Privicy Policy</a>
+            <a href="#">Terms & Conditions</a>
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>    
